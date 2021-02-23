@@ -4,8 +4,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Assignment 2</title>
-        <link rel="stylesheet" href="<%=request.getContextPath()%>main.css">
+
     </head>
     <body>
         <div class="header" style="
